@@ -1,6 +1,6 @@
 # Real-Time Multi-FX Pedal — Daisy Seed (DSP) + Raspberry Pi (Telemetry) + Godot UI
 
-**Demo:** [link to video]  
+**Demo:**<iframe width="560" height="315" src="https://drive.google.com/file/d/1PNiA0a3cJR7EqutVgz4zbug7DsLo45Vx/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 **Tech:** C/C++, DaisySP/libDaisy, UART, Raspberry Pi OS (Linux), Python, JSON, Godot, Blender → Mixamo pipeline  
 **Effects shipped:** Tuner, Chorus, Reverb, Bitcrusher/Distortion
 
